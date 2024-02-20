@@ -1,1 +1,1 @@
-# Linear-Search-List-GUI-space-spacing
+# Linear-Search-List-GUI-space-taking input
